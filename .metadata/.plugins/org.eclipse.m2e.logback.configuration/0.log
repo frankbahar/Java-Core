@@ -1,0 +1,10 @@
+2019-03-06 18:03:27,708 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-03-06 18:06:43,239 [Worker-3: Creating project "DataDrivenFramework"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.w2a:DataDrivenFramework:0.0.1-SNAPSHOT @ C:\Users\Public\Fikret\JavaPrograms\DataDrivenFramework\pom.xml.
+2019-03-06 18:06:45,225 [Worker-3: Creating project "DataDrivenFramework"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DataDrivenFramework/src/main/java
+2019-03-06 18:06:45,228 [Worker-3: Creating project "DataDrivenFramework"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DataDrivenFramework/src/main/resources
+2019-03-06 18:06:45,229 [Worker-3: Creating project "DataDrivenFramework"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DataDrivenFramework/src/test/java
+2019-03-06 18:06:45,230 [Worker-3: Creating project "DataDrivenFramework"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DataDrivenFramework/src/test/resources
+2019-03-06 18:06:47,540 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-06 18:06:47,552 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 18:06:47,554 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-06 18:06:47,564 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
